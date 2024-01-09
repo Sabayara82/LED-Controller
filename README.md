@@ -1,4 +1,4 @@
-# LED Controller APP
+# LED Controller App
 
 ## Overview
 An LED Light control App that uses a Microcontroller, Python, and various peripherals.
