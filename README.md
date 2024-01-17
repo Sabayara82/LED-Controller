@@ -2,6 +2,7 @@
 
 ## Overview
 An LED Light control App that uses a Microcontroller, Python, and various peripherals.
+View in: https://www.youtube.com/watch?v=IP5TtW9Qeco
 
 ## Project Description
 The goal of the project is to create an LED Controller App that can adjust LED brightness/intensity using push buttons and display relevant data on a computer using Python. The project involves the use of Microcontroller peripherals such as UART and Timer, along with efficient coding practices.
